@@ -11,7 +11,7 @@ import lombok.Setter;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class Cliente {
+public class Administrador {
     private Long id;
     private String nome;
     private String email;
